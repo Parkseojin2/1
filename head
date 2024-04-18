@@ -252,6 +252,7 @@
     color: darkblue;
     margin-left: 80px;
     margin-top: 15px;
+    white-space: nowrap;
 }
 
 /* 문자 위치 */
