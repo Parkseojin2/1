@@ -1,0 +1,28 @@
+
+.card {
+
+    justify-self: center;
+    width: 20%;
+    border: 1px solid #535353;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(109, 109, 124);
+}
+
+.card img {
+ 
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.card h2 {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.card p {
+    margin-bottom: 5px;
+}
